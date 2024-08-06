@@ -1,4 +1,4 @@
-# Inventory Management System
+![Add_categories](https://github.com/user-attachments/assets/616f3187-af05-4d00-b041-26a2ffc377b4)# Inventory Management System
 
 ## Overview
 
@@ -70,5 +70,60 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Screenshots
+
+### 1. Home Page
+![Home Page](screenshots/Home_page.png)
+
+### 2. Sign Up
+![Sign Up](screenshots/Sign_Up.png)
+
+### 3. Add categories
+![Add categories](screenshots/Add_categories.png)
+
+### 4. Add items
+![Add items](screenshots/Add_items.png)
+
+### 5. Dashboard after adding
+![Dashboard after adding](screenshots/Dashboard_after_adding.png)
+
+### 6. Edit items
+![Edit items](screenshots/edit_items.png)
+
+### 7. History of edits
+![History of edits](screenshots/history_of_edits.png)
+
+### 8. After edit
+![after_edit](screenshots/after_edit.png)
+
+### 9. Editing group name
+![Editing group name](screenshots/editing_group_name.png)
+
+### 10. After edit of group name
+![After edit of group name](screenshots/after_edit_of_group_name.png)
+
+### 11. Deletion
+![Deletion](screenshots/Deletion.png)
+
+### 12. After delete
+![After delete](screenshots/After_delete.png)
+
+### 13. Shopping list
+![Shopping list](screenshots/Shopping_list.png)
+
+### 14. Tickboxese
+![Tickboxes](screenshots/Tickboxes.png)
+
+### 15. Swipe right to delete
+![Swipe right to delete](screenshots/Swipe_right_to_delete.png)
+
+### 16. After deletion
+![After deletion](screenshots/After_deletion.png)
+
+### 17. Swipe left to add
+![Swipe left to add](screenshots/Swipe_left_to_add.png)
+
+### 18. After add
+![After add](screenshots/After_add.png)
+
 
 Thank you for checking out this project!
