@@ -1,4 +1,4 @@
-![Add_categories](https://github.com/user-attachments/assets/616f3187-af05-4d00-b041-26a2ffc377b4)# Inventory Management System
+# Inventory Management System
 
 ## Overview
 
