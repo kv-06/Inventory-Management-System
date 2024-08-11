@@ -72,75 +72,59 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](screenshots/Home_page.png)
-
+<img src="screenshots/Home_page.png" alt="Home Page" width="200">
 
 ### 2. Sign Up
-![Sign Up](screenshots/Sign_Up.png)
-
+<img src="screenshots/Sign_Up.png" alt="Sign Up" width="200">
 
 ### 3. Add categories
-![Add categories](screenshots/Add_categories.png)
-
+<img src="screenshots/Add_categories.png" alt="Add categories" width="200">
 
 ### 4. Add items
-![Add items](screenshots/Add_items.png)
-
+<img src="screenshots/Add_items.png" alt="Add items" width="200">
 
 ### 5. Dashboard after adding
-![Dashboard after adding](screenshots/Dashboard_after_adding.png)
-
+<img src="screenshots/Dashboard_after_adding.png" alt="Dashboard after adding" width="200">
 
 ### 6. Edit items
-![Edit items](screenshots/edit_items.png)
-
+<img src="screenshots/edit_items.png" alt="Edit items" width="200">
 
 ### 7. History of edits
-![History of edits](screenshots/history_of_edits.png)
-
+<img src="screenshots/history_of_edits.png" alt="History of edits" width="200">
 
 ### 8. After edit
-![after_edit](screenshots/after_edit.png)
-
+<img src="screenshots/after_edit.png" alt="After edit" width="200">
 
 ### 9. Editing group name
-![Editing group name](screenshots/editing_group_name.png)
-
+<img src="screenshots/editing_group_name.png" alt="Editing group name" width="200">
 
 ### 10. After edit of group name
-![After edit of group name](screenshots/after_edit_of_group_name.png)
-
+<img src="screenshots/after_edit_of_group_name.png" alt="After edit of group name" width="200">
 
 ### 11. Deletion
-![Deletion](screenshots/Deletion.png)
-
+<img src="screenshots/Deletion.png" alt="Deletion" width="200">
 
 ### 12. After delete
-![After delete](screenshots/After_delete.png)
-
+<img src="screenshots/After_delete.png" alt="After delete" width="200">
 
 ### 13. Shopping list
-![Shopping list](screenshots/Shopping_list.png)
+<img src="screenshots/Shopping_list.png" alt="Shopping list" width="200">
 
-
-### 14. Tickboxese
-![Tickboxes](screenshots/Tickboxes.png)
-
+### 14. Tickboxes
+<img src="screenshots/Tickboxes.png" alt="Tickboxes" width="200">
 
 ### 15. Swipe right to delete
-![Swipe right to delete](screenshots/Swipe_right_to_delete.png)
-
+<img src="screenshots/Swipe_right_to_delete.png" alt="Swipe right to delete" width="200">
 
 ### 16. After deletion
-![After deletion](screenshots/After_deletion.png)
-
+<img src="screenshots/After_deletion.png" alt="After deletion" width="200">
 
 ### 17. Swipe left to add
-![Swipe left to add](screenshots/Swipe_left_to_add.png)
-
+<img src="screenshots/Swipe_left_to_add.png" alt="Swipe left to add" width="200">
 
 ### 18. After add
-![After add](screenshots/After_add.png)
+<img src="screenshots/After_add.png" alt="After add" width="200">
+
 
 
 Thank you for checking out this project!
