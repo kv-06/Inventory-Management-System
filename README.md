@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an Inventory Management System built with Flutter. It allows users to manage and keep track of various products like stationery, groceries, and more. Users can log in to the app, create and manage categories, add items under each category, and adjust the quantities of these items. If the quantity of an item drops to zero, it is automatically added to a shopping list. Users can add and remove items into the shopping list.
+This project is an Inventory Management System built with Flutter. It allows users to manage and keep track of various products like stationery, groceries, and more. Users can log in to the app, create and manage categories, add items under each category, and adjust the quantities of these items. If the quantity of an item drops below the specified limit, it is automatically added to a shopping list. Users can add and remove items into the shopping list.
 
 ## Tech Stack
 
@@ -16,7 +16,7 @@ This project is an Inventory Management System built with Flutter. It allows use
 - **User Authentication:** Secure login system.
 - **Category Management:** Create and manage different categories for products.
 - **Product Management:** Add items under each category and adjust quantities as needed.
-- **Automatic Shopping List:** Items with zero quantity are automatically added to the shopping list.
+- **Automatic Shopping List:** Items with quantity below the specified limit are automatically added to the shopping list.
 
 
 ## Installation
