@@ -9,7 +9,7 @@ This project is an Inventory Management System built with Flutter. It allows use
 - **Language:** Dart
 - **Framework:** Flutter
 - **IDE:** Android Studio
-- **Database:** sqflite
+- **Database:** sqlite
 
 ## Features
 
